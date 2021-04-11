@@ -1,0 +1,160 @@
+Source,Year,Race,Indicator,Value
+CHR Additional Measures,2021,Black,Age-Adjusted Mortality,518.974
+CHR Additional Measures,2020,Black,Age-Adjusted Mortality,523.924
+CHR Additional Measures,2019,Black,Age-Adjusted Mortality,540.784
+CHR Additional Measures,2018,Black,Age-Adjusted Mortality,538.6
+CHR Additional Measures,2021,White,Age-Adjusted Mortality,294.091
+CHR Additional Measures,2020,White,Age-Adjusted Mortality,294.402
+CHR Additional Measures,2019,White,Age-Adjusted Mortality,296.059
+CHR Additional Measures,2018,White,Age-Adjusted Mortality,300.2
+CHR Additional Measures,2021,Black,Child Mortality Rate,114.357
+CHR Additional Measures,2020,Black,Child Mortality Rate,118.739
+CHR Additional Measures,2019,Black,Child Mortality Rate,110.759
+CHR Additional Measures,2018,Black,Child Mortality Rate,102.145
+CHR Additional Measures,2021,White,Child Mortality Rate,34.406
+CHR Additional Measures,2020,White,Child Mortality Rate,36.822
+CHR Additional Measures,2019,White,Child Mortality Rate,38.355
+CHR Additional Measures,2018,White,Child Mortality Rate,39.817
+CHR Additional Measures,2021,Black,Drug Overdose Mortality Rate,26.861
+CHR Additional Measures,2020,Black,Drug Overdose Mortality Rate,22.735
+CHR Additional Measures,2021,White,Drug Overdose Mortality Rate,23.318
+CHR Additional Measures,2020,White,Drug Overdose Mortality Rate,25.374
+CHR Additional Measures,2021,Black,Firearm Fatalities Rate,27.594
+CHR Additional Measures,2020,Black,Firearm Fatalities Rate,27.288
+CHR Additional Measures,2021,White,Firearm Fatalities Rate,4.247
+CHR Additional Measures,2020,White,Firearm Fatalities Rate,4.111
+CHR Additional Measures,2021,Black,Homicide Rate,30.596
+CHR Additional Measures,2020,Black,Homicide Rate,28.454
+CHR Additional Measures,2021,White,Homicide Rate,1.565
+CHR Additional Measures,2020,White,Homicide Rate,1.595
+CHR Additional Measures,2017,Black,Household Income,28516
+CHR Additional Measures,2019,Black,Household income,30165
+CHR Additional Measures,2018,Black,Household income,28200
+CHR Additional Measures,2021,Black,Household Income,33041
+CHR Additional Measures,2020,Black,Household Income,31623
+CHR Additional Measures,2017,White,Household Income,60251
+CHR Additional Measures,2019,White,Household income,63338
+CHR Additional Measures,2018,White,Household income,60981
+CHR Additional Measures,2021,White,Household Income,68137
+CHR Additional Measures,2020,White,Household Income,65511
+CHR Additional Measures,2021,Black,Infant Mortality Rate,13.466
+CHR Additional Measures,2020,Black,Infant Mortality Rate,14.197
+CHR Additional Measures,2019,Black,Infant Mortality Rate,13.581
+CHR Additional Measures,2018,Black,Infant Mortality Rate,12.933
+CHR Additional Measures,2021,White,Infant Mortality Rate,4.007
+CHR Additional Measures,2020,White,Infant Mortality Rate,4.443
+CHR Additional Measures,2019,White,Infant Mortality Rate,4.675
+CHR Additional Measures,2018,White,Infant Mortality Rate,4.7
+CHR Additional Measures,2021,Black,Life Expectancy,74.584
+CHR Additional Measures,2020,Black,Life Expectancy,74.461
+CHR Additional Measures,2019,Black,Life Expectancy,74.19
+CHR Additional Measures,2021,White,Life Expectancy,80.284
+CHR Additional Measures,2020,White,Life Expectancy,80.117
+CHR Additional Measures,2019,White,Life Expectancy,79.969
+NYSED 3-8 Assessment,2018,Black,Grade 4 ELA L3-L4,15
+NYSED 3-8 Assessment,2017,Black,Grade 4 ELA L3-L4,12
+NYSED 3-8 Assessment,2016,Black,Grade 4 ELA L3-L4,10
+NYSED 3-8 Assessment,2018,White,Grade 4 ELA L3-L4,46
+NYSED 3-8 Assessment,2017,White,Grade 4 ELA L3-L4,41
+NYSED 3-8 Assessment,2016,White,Grade 4 ELA L3-L4,41
+NYSED 3-8 Assessment,2018,Black,Grade 8 Math L3-L4,6
+NYSED 3-8 Assessment,2017,Black,Grade 8 Math L3-L4,2
+NYSED 3-8 Assessment,2016,Black,Grade 8 Math L3-L4,3
+NYSED 3-8 Assessment,2018,White,Grade 8 Math L3-L4,26
+NYSED 3-8 Assessment,2017,White,Grade 8 Math L3-L4,15
+NYSED 3-8 Assessment,2016,White,Grade 8 Math L3-L4,20
+NYSED Graduation Database,2018,Black,% Advanced Regents,8
+NYSED Graduation Database,2017,Black,% Advanced Regents,7
+NYSED Graduation Database,2016,Black,% Advanced Regents,8
+NYSED Graduation Database,2015,Black,% Advanced Regents,7
+NYSED Graduation Database,2020,White,% Advanced Regents,57
+NYSED Graduation Database,2019,White,% Advanced Regents,55
+NYSED Graduation Database,2018,White,% Advanced Regents,53
+NYSED Graduation Database,2017,White,% Advanced Regents,51
+NYSED Graduation Database,2016,White,% Advanced Regents,47
+NYSED Graduation Database,2015,White,% Advanced Regents,48
+NYSED Graduation Database,2018,Black,% Graduation,68
+NYSED Graduation Database,2017,Black,% Graduation,70
+NYSED Graduation Database,2016,Black,% Graduation,70
+NYSED Graduation Database,2015,Black,% Graduation,66
+NYSED Graduation Database,2020,White,% Graduation,89
+NYSED Graduation Database,2019,White,% Graduation,89
+NYSED Graduation Database,2018,White,% Graduation,90
+NYSED Graduation Database,2017,White,% Graduation,89
+NYSED Graduation Database,2016,White,% Graduation,89
+NYSED Graduation Database,2015,White,% Graduation,88
+Vera Incarceration Trends,2018,Black,Jail Population Rate,1259.68
+Vera Incarceration Trends,2017,Black,Jail Population Rate,1458.61
+Vera Incarceration Trends,2016,Black,Jail Population Rate,1463.26
+Vera Incarceration Trends,2015,Black,Jail Population Rate,1373.5
+Vera Incarceration Trends,2014,Black,Jail Population Rate,1583.04
+Vera Incarceration Trends,2013,Black,Jail Population Rate,1559.56
+Vera Incarceration Trends,2012,Black,Jail Population Rate,1638.65
+Vera Incarceration Trends,2011,Black,Jail Population Rate,1594.97
+Vera Incarceration Trends,2010,Black,Jail Population Rate,1750.97
+Vera Incarceration Trends,2018,Black,Prison Population Rate,-
+Vera Incarceration Trends,2017,Black,Prison Population Rate,-
+Vera Incarceration Trends,2016,Black,Prison Population Rate,2937.72
+Vera Incarceration Trends,2015,Black,Prison Population Rate,2940.02
+Vera Incarceration Trends,2014,Black,Prison Population Rate,2962.63
+Vera Incarceration Trends,2013,Black,Prison Population Rate,3085.55
+Vera Incarceration Trends,2012,Black,Prison Population Rate,3067.99
+Vera Incarceration Trends,2011,Black,Prison Population Rate,3149.36
+Vera Incarceration Trends,2010,Black,Prison Population Rate,3217.18
+Vera Incarceration Trends,2018,White,Jail Population Rate,176.24
+Vera Incarceration Trends,2017,White,Jail Population Rate,200.88
+Vera Incarceration Trends,2016,White,Jail Population Rate,200.52
+Vera Incarceration Trends,2015,White,Jail Population Rate,203.09
+Vera Incarceration Trends,2014,White,Jail Population Rate,218.2
+Vera Incarceration Trends,2013,White,Jail Population Rate,208.98
+Vera Incarceration Trends,2012,White,Jail Population Rate,207.46
+Vera Incarceration Trends,2011,White,Jail Population Rate,191.21
+Vera Incarceration Trends,2010,White,Jail Population Rate,200.9
+Vera Incarceration Trends,2018,White,Prison Population Rate,-
+Vera Incarceration Trends,2017,White,Prison Population Rate,-
+Vera Incarceration Trends,2016,White,Prison Population Rate,225.79
+Vera Incarceration Trends,2015,White,Prison Population Rate,216.58
+Vera Incarceration Trends,2014,White,Prison Population Rate,214.54
+Vera Incarceration Trends,2013,White,Prison Population Rate,213.1
+Vera Incarceration Trends,2012,White,Prison Population Rate,209.55
+Vera Incarceration Trends,2011,White,Prison Population Rate,225.34
+Vera Incarceration Trends,2010,White,Prison Population Rate,211.8
+CHR Ranked Measures,2017,Black,% Children in Poverty - Black,48.953
+CHR Ranked Measures,2017,White,% Children in Poverty - White,12.508
+CHR Ranked Measures,2021,Black,% Children in Poverty,47.182
+CHR Ranked Measures,2020,Black,% Children in Poverty,48.177
+CHR Ranked Measures,2019,Black,% Children in Poverty,49.319
+CHR Ranked Measures,2018,Black,% Children in Poverty,50.241
+CHR Ranked Measures,2021,White,% Children in Poverty,11.185
+CHR Ranked Measures,2020,White,% Children in Poverty,11.769
+CHR Ranked Measures,2019,White,% Children in Poverty,11.397
+CHR Ranked Measures,2018,White,% Children in Poverty,11.637
+CHR Ranked Measures,2017,Black,% Drive Alone - Black,59.584
+CHR Ranked Measures,2021,Black,% Drive Alone,62.395
+CHR Ranked Measures,2020,Black,% Drive Alone,59.55
+CHR Ranked Measures,2019,Black,% Drive Alone,59.638
+CHR Ranked Measures,2018,Black,% Drive Alone,60.228
+CHR Ranked Measures,2021,White,% Drive Alone,84.237
+CHR Ranked Measures,2020,White,% Drive Alone,84.474
+CHR Ranked Measures,2019,White,% Drive Alone,84.08
+CHR Ranked Measures,2018,White,% Drive Alone,83.889
+CHR Ranked Measures,2021,Black,% LBW,12.866
+CHR Ranked Measures,2020,Black,% LBW,12.373
+CHR Ranked Measures,2021,White,% LBW,6.467
+CHR Ranked Measures,2020,White,% LBW,6.551
+CHR Ranked Measures,2021,Black,Teen Birth Rate,39.362
+CHR Ranked Measures,2020,Black,Teen Birth Rate,42.882
+CHR Ranked Measures,2019,Black,Teen Birth Rate,46.551
+CHR Ranked Measures,2018,Black,Teen Birth Rate,49.656
+CHR Ranked Measures,2021,White,Teen Birth Rate,9.251
+CHR Ranked Measures,2020,White,Teen Birth Rate,10.525
+CHR Ranked Measures,2019,White,Teen Birth Rate,11.586
+CHR Ranked Measures,2018,White,Teen Birth Rate,12.81
+CHR Ranked Measures,2018,Black,Years of Potential Life Lost Rate,11010.448
+CHR Ranked Measures,2018,White,Years of Potential Life Lost Rate,5522.915
+CHR Ranked Measures,2021,Black,YPLL Rate,11636.068
+CHR Ranked Measures,2020,Black,YPLL Rate,11841.669
+CHR Ranked Measures,2019,Black,YPLL Rate,12028.893
+CHR Ranked Measures,2021,White,YPLL Rate,5638.694
+CHR Ranked Measures,2020,White,YPLL Rate,5815.619
+CHR Ranked Measures,2019,White,YPLL Rate,5793.515
